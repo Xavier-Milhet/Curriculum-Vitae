@@ -1,1 +1,1 @@
-# Projects on differents datasets with some of the skills used in Machine Learning.
+### Projects on differents datasets with some of the skills used in Machine Learning.
